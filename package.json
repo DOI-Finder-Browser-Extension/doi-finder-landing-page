@@ -1,0 +1,19 @@
+{
+  "name": "doi-finder-landing-page",
+  "version": "1.0.0",
+  "description": "Landing page for DOI to Sci-Hub Chrome Extension",
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "build": "echo 'No build step required for static site'"
+  },
+  "keywords": [
+    "doi",
+    "sci-hub",
+    "chrome-extension",
+    "landing-page",
+    "academic",
+    "research"
+  ],
+  "author": "Tamkin Tamrazli",
+  "license": "MIT"
+}
